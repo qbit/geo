@@ -1,0 +1,136 @@
+<html>
+<head>
+<title>Well Map</title>
+<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
+<script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+<script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+</head>
+<body id="map" bgcolor="white" text="black">
+</body>
+<script>
+
+var base = L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+});
+
+var map = L.map('map', {
+	center: [37.24, -104.82],
+	zoom: 10,
+	layers: [base]
+});
+
+/*
+var gas_wells = L.tileLayer.wms("http://geo.akb.io:8000", {
+    layers: 'gas_wells',
+    format: 'image/png',
+    transparent: true,
+    attribution: "COGCC © http://cogcc.state.co.us"
+}).addTo(map);
+var water_wells = L.tileLayer.wms("http://geo.akb.io:8000", {
+    layers: 'water_wells',
+    format: 'image/png',
+    transparent: true,
+    attribution: "USGS © http://co.water.usgs.gov/"
+}).addTo(map);
+
+var wells = L.layerGroup([water_wells, gas_wells]);
+*/
+
+var well_icon = L.icon({ iconUrl: '/fuel-18.png'});
+var water_icon = L.icon({ iconUrl: '/water-18.png'});
+var gas_wells;
+var water_wells;
+var well_control;
+var first_load = true;
+
+var done = { gas: false, water: false };
+
+function gas_link(a) {
+	var target = "http://cogcc.state.co.us/cogis/FacilityDetail.asp?type=WELL&facid=" + a;
+
+	return '<a href="' + target + '" target="_blank">' + a + "</a>";
+}
+
+function water_link(a) {
+	var target = "http://www.dwr.state.co.us/WellPermitSearch/View.aspx?receipt=" + a;
+
+	return '<a href="' + target + '" target="_blank">' + a + "</a>";
+}
+
+$.get("http://geo.akb.io/gas.geojson", function(data) {
+	function eacher(feat, layer) {
+		if (feat.properties && feat.properties.NAME) {
+			layer.bindPopup(gas_link(feat.properties.NAME)  + ": " + feat.properties.DEPTH_WELL || "unknown");
+		}	
+	}
+
+	gas_wells = L.geoJson(JSON.parse(data), {
+		onEachFeature: eacher,
+		pointToLayer: function(feat, latlng) {
+			return L.marker(latlng, {icon: well_icon});
+		}
+	}).addTo(map);
+
+	done.gas = true;
+	
+});
+
+$.get("http://geo.akb.io/water.geojson", function(data) {
+	function eacher(feat, layer) {
+		if (feat.properties && feat.properties.NAME) {
+			layer.bindPopup(water_link(feat.properties.NAME) + ": " + feat.properties.DEPTH_WELL || "unknown");
+		}	
+	}
+
+	water_wells = L.geoJson(JSON.parse(data), {
+		onEachFeature: eacher,
+		pointToLayer: function(feat, latlng) {
+			return L.marker(latlng, {icon: water_icon});
+		}
+	}).addTo(map);
+
+	done.water = true;
+	
+});
+
+function addControl() {
+	if (done.gas && done.water) {
+		well_control = L.control.layers({"Base": base}, {
+			"Gas Wells": gas_wells,
+			"Water Wells": water_wells
+		}).addTo(map);
+
+		map.attributionControl.addAttribution("COGCC © http://cogcc.state.co.us");
+		map.attributionControl.addAttribution("USGS © http://co.water.usgs.gov/");
+
+	} else {
+		setTimeout(function() {
+			addControl();
+		}, 500);
+	}
+
+}
+
+map.on('moveend', function(e) {
+	var center = map.getCenter(),
+	zoom = map.getZoom();
+	window.location.href = "#" + center.lat + "," + center.lng + "," + zoom;
+});
+
+
+addControl();
+
+if (first_load === true && window.location.href.match(/#/)) {
+	var parts = window.location.href.split(/,/),
+	lat = parts[0].split(/#/)[1],
+	lng = parts[1],
+	zoom = parts[2];
+
+	map.panTo(L.latLng(lat, lng));
+	map.setZoom(zoom);
+
+	first_load = false;
+}
+
+</script>
+</html>

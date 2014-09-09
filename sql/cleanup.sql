@@ -1,0 +1,30 @@
+alter table wells drop column pm
+alter table wells drop column rng;
+alter table wells drop column rdir;
+alter table wells drop column ts
+alter table wells drop column tdir;
+alter table wells drop column sec;
+alter table wells drop column q160;
+alter table wells drop column q40;
+alter table wells drop column use1;
+alter table wells drop column use2
+alter table wells drop column use3;
+alter table wells drop column top_perf;
+alter table wells drop column btm_perf;
+alter table wells drop column well_yield;
+alter table wells drop column wcdate
+alter table wells drop column pcdate;
+alter table wells drop column dem_m
+alter table wells drop column dem_ft;
+alter table wells drop column wlalt
+alter table wells drop column wt_map;
+alter table wells drop column surf_geo50;
+alter table wells drop column wdalt;
+alter table wells drop column cty;
+alter table wells drop column permitsuf;
+alter table wells drop column permitrpl;
+alter table wells drop column utm_x;
+alter table wells drop column utm_y;
+alter table wells drop column depth_wate;
+
+alter table wells rename receipt to name;

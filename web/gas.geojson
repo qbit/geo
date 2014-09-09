@@ -1,0 +1,768 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "NAME": "07106595", "DEPTH_WELL": "1800", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.69862, 37.30032 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07106605", "DEPTH_WELL": "1850", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.67139, 37.24556 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07106605", "DEPTH_WELL": "1850", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.67139, 37.24556 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07106762", "DEPTH_WELL": "1800", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.66918, 37.25644 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07106791", "DEPTH_WELL": "1925", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.72922, 37.21695 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07106856", "DEPTH_WELL": "2450", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.71708, 37.27895 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07106886", "DEPTH_WELL": "2600", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.74153, 37.27182 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07106895", "DEPTH_WELL": "1575", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.66256, 37.27308 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07106942", "DEPTH_WELL": "2700", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.8599, 37.23503 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07106942", "DEPTH_WELL": "2700", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.8599, 37.23503 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07106992", "DEPTH_WELL": "2350", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.7378, 37.28256 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07106992", "DEPTH_WELL": "2350", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.7378, 37.28256 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07107027", "DEPTH_WELL": "2550", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.7726, 37.24899 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07107043", "DEPTH_WELL": "2250", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.77365, 37.23099 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07107092", "DEPTH_WELL": "2400", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.76369, 37.20809 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07107092", "DEPTH_WELL": "2400", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.76369, 37.20809 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07107100", "DEPTH_WELL": "2300", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.75718, 37.23872 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07107266", "DEPTH_WELL": "1550", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.65098, 37.22028 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07107320", "DEPTH_WELL": "3000", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.85148, 37.26019 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07107339", "DEPTH_WELL": "1700", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.69812, 37.20836 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07107419", "DEPTH_WELL": "2550", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.74627, 37.27404 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07107419", "DEPTH_WELL": "2550", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.74627, 37.27404 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07107419", "DEPTH_WELL": "2550", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.74627, 37.27404 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07107453", "DEPTH_WELL": "2100", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.74773, 37.21771 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07107517", "DEPTH_WELL": "2500", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.54049, 37.35499 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07107641", "DEPTH_WELL": "2600", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.76536, 37.25346 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07107684", "DEPTH_WELL": "3414", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.91287, 37.28497 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07107689", "DEPTH_WELL": "3725", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.89925, 37.28775 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07107691", "DEPTH_WELL": "6880", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.92675, 37.25943 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07107691", "DEPTH_WELL": "6880", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.92675, 37.25943 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07107705", "DEPTH_WELL": "1425", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.59594, 37.43261 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07107711", "DEPTH_WELL": "2000", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.53624, 37.35872 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07107711", "DEPTH_WELL": "2000", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.53624, 37.35872 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07107932", "DEPTH_WELL": "2700", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.80091, 37.32863 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07107948", "DEPTH_WELL": "2700", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.80716, 37.27826 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07107948", "DEPTH_WELL": "2700", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.80716, 37.27826 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07107970", "DEPTH_WELL": "2450", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.78733, 37.27871 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07107974", "DEPTH_WELL": "3150", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.8173, 37.28129 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108005", "DEPTH_WELL": "1775", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.67473, 37.26006 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108044", "DEPTH_WELL": "2900", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.89403, 37.23179 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108053", "DEPTH_WELL": "1350", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.6558, 37.27485 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108059", "DEPTH_WELL": "1800", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.6801, 37.23191 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108059", "DEPTH_WELL": "1800", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.6801, 37.23191 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108099", "DEPTH_WELL": "2350", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.77333, 37.27875 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108100", "DEPTH_WELL": "2250", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.76523, 37.28128 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108110", "DEPTH_WELL": "1900", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.68495, 37.25257 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108115", "DEPTH_WELL": "3200", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.91358, 37.24601 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108117", "DEPTH_WELL": "2850", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.89233, 37.23679 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108122", "DEPTH_WELL": "1850", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.68882, 37.27191 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108125", "DEPTH_WELL": "2600", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.8213, 37.29068 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108126", "DEPTH_WELL": "2495", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.78503, 37.27451 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108127", "DEPTH_WELL": "2550", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.76483, 37.27376 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108127", "DEPTH_WELL": "2550", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.76483, 37.27376 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108128", "DEPTH_WELL": "2600", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.76999, 37.27368 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108149", "DEPTH_WELL": "2850", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.81605, 37.23894 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108161", "DEPTH_WELL": "3100", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.90272, 37.24058 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108177", "DEPTH_WELL": "2600", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.80441, 37.22372 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108178", "DEPTH_WELL": "2800", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.85975, 37.23067 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108178", "DEPTH_WELL": "2800", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.85975, 37.23067 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108195", "DEPTH_WELL": "1700", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.70579, 37.21636 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108201", "DEPTH_WELL": "1900", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.75441, 37.29881 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108207", "DEPTH_WELL": "2150", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.76506, 37.2935 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108211", "DEPTH_WELL": "3000", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.8098, 37.28146 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108216", "DEPTH_WELL": "2985", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.82613, 37.26962 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108237", "DEPTH_WELL": "2000", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.70486, 37.25865 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108258", "DEPTH_WELL": "3050", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.90493, 37.26002 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108269", "DEPTH_WELL": "2150", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.7434, 37.28872 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108282", "DEPTH_WELL": "1750", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.72445, 37.32614 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108284", "DEPTH_WELL": "3000", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.81593, 37.31764 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108285", "DEPTH_WELL": "1900", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.69291, 37.30685 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108285", "DEPTH_WELL": "1900", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.69291, 37.30685 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108288", "DEPTH_WELL": "1750", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.70107, 37.32795 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108319", "DEPTH_WELL": "2500", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.73848, 37.25508 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108328", "DEPTH_WELL": "1800", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.68834, 37.29775 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108342", "DEPTH_WELL": "2600", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.76245, 37.26386 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108349", "DEPTH_WELL": "3500", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.84208, 37.29795 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108349", "DEPTH_WELL": "3500", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.84208, 37.29795 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108349", "DEPTH_WELL": "3500", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.84208, 37.29795 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108377", "DEPTH_WELL": "1900", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.71529, 37.25338 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108382", "DEPTH_WELL": "2450", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.78451, 37.31909 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108385", "DEPTH_WELL": "2400", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.74243, 37.25965 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108389", "DEPTH_WELL": "2050", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.74554, 37.22529 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108392", "DEPTH_WELL": "5000", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.7891, 37.34307 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108392", "DEPTH_WELL": "5000", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.7891, 37.34307 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108392", "DEPTH_WELL": "5000", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.7891, 37.34307 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108396", "DEPTH_WELL": "2300", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.77081, 37.34076 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108398", "DEPTH_WELL": "2450", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.77858, 37.20885 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108415", "DEPTH_WELL": "3100", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.92103, 37.25702 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108416", "DEPTH_WELL": "3330", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.93616, 37.25287 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108416", "DEPTH_WELL": "3330", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.93616, 37.25287 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108426", "DEPTH_WELL": "3340", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.93022, 37.25205 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108442", "DEPTH_WELL": "2200", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.7385, 37.24164 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108445", "DEPTH_WELL": "3170", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.90834, 37.24087 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108447", "DEPTH_WELL": "2320", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.92137, 37.22632 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108453", "DEPTH_WELL": "2340", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.71987, 37.27446 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108456", "DEPTH_WELL": "1550", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.62757, 37.22008 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108459", "DEPTH_WELL": "3140", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.84185, 37.28106 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108459", "DEPTH_WELL": "3140", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.84185, 37.28106 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108487", "DEPTH_WELL": "2000", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.69976, 37.30744 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108489", "DEPTH_WELL": "2200", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.71544, 37.29049 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108492", "DEPTH_WELL": "2510", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.73366, 37.27926 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108492", "DEPTH_WELL": "2510", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.73366, 37.27926 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108493", "DEPTH_WELL": "2900", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.83713, 37.28892 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108493", "DEPTH_WELL": "2900", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.83713, 37.28892 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108497", "DEPTH_WELL": "3400", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.92657, 37.26353 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108497", "DEPTH_WELL": "3400", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.92657, 37.26353 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108500", "DEPTH_WELL": "2440", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.72528, 37.27653 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108504", "DEPTH_WELL": "2200", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.72142, 37.30082 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108519", "DEPTH_WELL": "3270", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.91199, 37.25192 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108535", "DEPTH_WELL": "3110", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.91822, 37.23447 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108562", "DEPTH_WELL": "3500", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.81971, 37.33961 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108581", "DEPTH_WELL": "1780", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.71251, 37.22445 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108583", "DEPTH_WELL": "4500", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.71454, 37.35047 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108600", "DEPTH_WELL": "4500", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.73457, 37.34427 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108601", "DEPTH_WELL": "1850", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.67598, 37.29718 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108603", "DEPTH_WELL": "1785", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.71965, 37.27427 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108606", "DEPTH_WELL": "3400", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.86886, 37.28405 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108606", "DEPTH_WELL": "3400", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.86886, 37.28405 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108608", "DEPTH_WELL": "1610", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.72959, 37.26002 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108615", "DEPTH_WELL": "2390", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.7762, 37.21954 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108616", "DEPTH_WELL": "3230", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.93753, 37.22906 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108625", "DEPTH_WELL": "1600", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.68232, 37.34267 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108626", "DEPTH_WELL": "2400", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.91861, 37.22027 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108630", "DEPTH_WELL": "2970", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.84517, 37.25796 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108630", "DEPTH_WELL": "2970", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.84517, 37.25796 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108632", "DEPTH_WELL": "3060", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.87864, 37.23332 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108634", "DEPTH_WELL": "3140", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.84026, 37.26631 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108636", "DEPTH_WELL": "3235", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.91392, 37.25587 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108636", "DEPTH_WELL": "3235", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.91392, 37.25587 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108641", "DEPTH_WELL": "1470", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.69186, 37.21662 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108647", "DEPTH_WELL": "2250", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.71173, 37.2744 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108648", "DEPTH_WELL": "2140", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.79919, 37.28805 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108653", "DEPTH_WELL": "3100", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.90565, 37.25212 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108654", "DEPTH_WELL": "2750", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.92642, 37.26375 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108657", "DEPTH_WELL": "1535", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.72976, 37.22327 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108661", "DEPTH_WELL": "1710", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.7022, 37.23107 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108664", "DEPTH_WELL": "1890", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.71204, 37.27439 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108668", "DEPTH_WELL": "3150", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.93227, 37.22598 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108669", "DEPTH_WELL": "1790", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.73394, 37.2389 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108670", "DEPTH_WELL": "2850", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.8365, 37.27968 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108671", "DEPTH_WELL": "2400", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.83649, 37.27967 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108679", "DEPTH_WELL": "2225", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.74381, 37.23366 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108680", "DEPTH_WELL": "1345", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.72525, 37.23866 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108688", "DEPTH_WELL": "2290", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.80337, 37.27489 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108690", "DEPTH_WELL": "2350", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.90251, 37.22063 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108693", "DEPTH_WELL": "2900", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.90222, 37.22051 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108706", "DEPTH_WELL": "1120", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.71147, 37.23203 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108708", "DEPTH_WELL": "3430", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.9262, 37.27027 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108709", "DEPTH_WELL": "3200", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.89549, 37.25637 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108715", "DEPTH_WELL": "1755", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.725295, 37.316671 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108721", "DEPTH_WELL": "1130", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.91603, 37.21265 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108723", "DEPTH_WELL": "1540", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.68472, 37.23245 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108736", "DEPTH_WELL": "2255", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.75847, 37.22363 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108737", "DEPTH_WELL": "1800", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.70832, 37.31557 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108740", "DEPTH_WELL": "2500", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.8401, 37.26606 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108741", "DEPTH_WELL": "1570", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.73739, 37.22885 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108744", "DEPTH_WELL": "1670", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.69235, 37.22472 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108751", "DEPTH_WELL": "3150", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.909102, 37.236394 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108759", "DEPTH_WELL": "2020", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.720462, 37.251366 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108761", "DEPTH_WELL": "1860", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.71262, 37.246 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108764", "DEPTH_WELL": "1360", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.682525, 37.217766 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108772", "DEPTH_WELL": "2255", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.726001, 37.251292 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108775", "DEPTH_WELL": "3250", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.921026, 37.252008 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108775", "DEPTH_WELL": "3250", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.921026, 37.252008 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108780", "DEPTH_WELL": "2010", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.835394, 37.28349 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108781", "DEPTH_WELL": "1600", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.67086, 37.211 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108783", "DEPTH_WELL": "2940", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.90042, 37.229148 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108783", "DEPTH_WELL": "2940", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.90042, 37.229148 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108787", "DEPTH_WELL": "2090", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.903673, 37.232011 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108797", "DEPTH_WELL": "1775", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.719875, 37.209405 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108798", "DEPTH_WELL": "1820", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.715413, 37.215681 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108805", "DEPTH_WELL": "2290", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.76127, 37.21785 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108806", "DEPTH_WELL": "1760", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.76097, 37.21775 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108829", "DEPTH_WELL": "1540", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.75712, 37.28798 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108833", "DEPTH_WELL": "1115", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.68464, 37.2391 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108841", "DEPTH_WELL": "1880", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.68543, 37.28747 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108842", "DEPTH_WELL": "1775", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.68459, 37.28225 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108905", "DEPTH_WELL": "2640", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.92977, 37.246 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108906", "DEPTH_WELL": "2230", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.93314, 37.21014 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108907", "DEPTH_WELL": "3000", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.93345, 37.21013 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108908", "DEPTH_WELL": "2100", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.75945, 37.29756 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108909", "DEPTH_WELL": "3230", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.92566, 37.24215 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108918", "DEPTH_WELL": "2980", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.82416, 37.31744 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108920", "DEPTH_WELL": "1940", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.76823, 37.26937 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108934", "DEPTH_WELL": "2600", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.7864, 37.28275 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108937", "DEPTH_WELL": "3600", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.87718, 37.29272 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108939", "DEPTH_WELL": "3300", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.83709, 37.29934 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108942", "DEPTH_WELL": "1850", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.70332, 37.31866 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108946", "DEPTH_WELL": "2800", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.80305, 37.32196 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108952", "DEPTH_WELL": "1770", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.71953, 37.32037 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108954", "DEPTH_WELL": "2480", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.78896, 37.32554 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108969", "DEPTH_WELL": "2490", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.77516, 37.29298 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108977", "DEPTH_WELL": "2500", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.93515, 37.21392 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108980", "DEPTH_WELL": "2110", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.72465, 37.26717 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108986", "DEPTH_WELL": "2370", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.73854, 37.2869 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108994", "DEPTH_WELL": "2450", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.9149, 37.24151 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108995", "DEPTH_WELL": "3125", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.91489, 37.24124 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07108996", "DEPTH_WELL": "4000", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.92881, 37.21238 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109001", "DEPTH_WELL": "2000", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.73908, 37.2757 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109005", "DEPTH_WELL": "2100", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.77549, 37.30513 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109006", "DEPTH_WELL": "2600", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.82143, 37.29085 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109007", "DEPTH_WELL": "3100", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.76092, 37.2438 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109038", "DEPTH_WELL": "2340", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.76889, 37.28407 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109040", "DEPTH_WELL": "1930", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.74201, 37.30378 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109041", "DEPTH_WELL": "1960", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.75321, 37.30978 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109046", "DEPTH_WELL": "2070", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.70008, 37.26109 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109064", "DEPTH_WELL": "3900", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.90555, 37.28603 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109065", "DEPTH_WELL": "1660", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.70991, 37.3114 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109076", "DEPTH_WELL": "3280", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.92327, 37.24668 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109076", "DEPTH_WELL": "3280", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.92327, 37.24668 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109084", "DEPTH_WELL": "2580", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.79502, 37.32068 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109086", "DEPTH_WELL": "2175", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.71295, 37.26295 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109087", "DEPTH_WELL": "2335", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.73009, 37.2697 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109088", "DEPTH_WELL": "1745", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.7302, 37.26994 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109089", "DEPTH_WELL": "1750", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.70755, 37.32109 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109092", "DEPTH_WELL": "2070", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.73416, 37.21452 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109093", "DEPTH_WELL": "1400", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.79077, 37.2717 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109095", "DEPTH_WELL": "2900", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.93181, 37.22167 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109098", "DEPTH_WELL": "1270", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.66755, 37.2139 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109100", "DEPTH_WELL": "3050", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.92461, 37.22191 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109102", "DEPTH_WELL": "3200", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.92063, 37.23855 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109116", "DEPTH_WELL": "2795", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.88552, 37.22546 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109118", "DEPTH_WELL": "2600", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.92432, 37.2218 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109121", "DEPTH_WELL": "1975", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.81282, 37.23548 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109143", "DEPTH_WELL": "1485", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.74981, 37.22302 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109146", "DEPTH_WELL": "2400", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.72396, 37.26086 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109147", "DEPTH_WELL": "1575", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.7259, 37.25152 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109149", "DEPTH_WELL": "1585", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.71588, 37.24827 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109150", "DEPTH_WELL": "2800", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.81864, 37.26762 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109152", "DEPTH_WELL": "2330", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.90408, 37.21633 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109154", "DEPTH_WELL": "1810", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.75116, 37.23825 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109155", "DEPTH_WELL": "1540", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.75743, 37.29269 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109156", "DEPTH_WELL": "1860", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.765, 37.24932 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109157", "DEPTH_WELL": "1960", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.72008, 37.24059 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109158", "DEPTH_WELL": "1565", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.76513, 37.29323 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109159", "DEPTH_WELL": "1780", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.80857, 37.22037 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109160", "DEPTH_WELL": "2320", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.73454, 37.2898 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109163", "DEPTH_WELL": "2150", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.72926, 37.25561 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109164", "DEPTH_WELL": "2740", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.80395, 37.23158 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109167", "DEPTH_WELL": "2175", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.72032, 37.28824 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109168", "DEPTH_WELL": "2065", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.71582, 37.30378 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109170", "DEPTH_WELL": "1670", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.75718, 37.23327 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109172", "DEPTH_WELL": "2135", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.732, 37.23046 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109178", "DEPTH_WELL": "3840", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.91247, 37.2797 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109179", "DEPTH_WELL": "2060", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.71628, 37.2431 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109184", "DEPTH_WELL": "3360", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.93495, 37.25675 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109186", "DEPTH_WELL": "1600", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.72903, 37.26489 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109187", "DEPTH_WELL": "3150", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.89472, 37.25188 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109188", "DEPTH_WELL": "1795", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.77513, 37.26979 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109190", "DEPTH_WELL": "1840", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.69287, 37.31594 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109191", "DEPTH_WELL": "1600", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.6659, 37.26525 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109195", "DEPTH_WELL": "1590", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.7377, 37.23382 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109196", "DEPTH_WELL": "2800", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.80882, 37.27121 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109198", "DEPTH_WELL": "2050", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.76181, 37.30997 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109199", "DEPTH_WELL": "1640", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.73708, 37.26273 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109201", "DEPTH_WELL": "2475", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.74601, 37.248 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109219", "DEPTH_WELL": "7200", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.92713, 37.2427 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109221", "DEPTH_WELL": "1895", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.68424, 37.30156 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109225", "DEPTH_WELL": "1970", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.69308, 37.28196 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109226", "DEPTH_WELL": "2150", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.7017, 37.28228 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109227", "DEPTH_WELL": "1930", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.6935, 37.28988 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109230", "DEPTH_WELL": "1840", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.80666, 37.22677 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109231", "DEPTH_WELL": "2650", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.85368, 37.2268 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109231", "DEPTH_WELL": "2650", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.85368, 37.2268 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109234", "DEPTH_WELL": "2470", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.77975, 37.22846 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109234", "DEPTH_WELL": "2470", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.77975, 37.22846 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109242", "DEPTH_WELL": "6400", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.84665, 37.23833 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109244", "DEPTH_WELL": "2800", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.80785, 37.31118 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109250", "DEPTH_WELL": "2480", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.80445, 37.21011 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109251", "DEPTH_WELL": "7262", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.88669, 37.23594 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109253", "DEPTH_WELL": "1630", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.67789, 37.28089 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109254", "DEPTH_WELL": "3680", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.88857, 37.29074 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109255", "DEPTH_WELL": "2150", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.72915, 37.23537 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109256", "DEPTH_WELL": "1600", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.74403, 37.2335 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109257", "DEPTH_WELL": "3770", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.90317, 37.27829 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109259", "DEPTH_WELL": "3830", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.90388, 37.27134 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109263", "DEPTH_WELL": "2560", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.74664, 37.25294 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109267", "DEPTH_WELL": "2150", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.78518, 37.30196 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109268", "DEPTH_WELL": "3155", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.80203, 37.27095 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109290", "DEPTH_WELL": "2030", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.76092, 37.30332 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109293", "DEPTH_WELL": "1440", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.65581, 37.21808 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109294", "DEPTH_WELL": "2650", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.78406, 37.28724 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109295", "DEPTH_WELL": "3500", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.87218, 37.29281 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109296", "DEPTH_WELL": "3400", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.8554, 37.28049 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109297", "DEPTH_WELL": "3300", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.86785, 37.28955 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109298", "DEPTH_WELL": "1600", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.67099, 37.28314 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109303", "DEPTH_WELL": "3140", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.90857, 37.22905 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109304", "DEPTH_WELL": "2300", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.90888, 37.2291 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109306", "DEPTH_WELL": "2470", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.77327, 37.20905 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109307", "DEPTH_WELL": "2680", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.80362, 37.29283 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109309", "DEPTH_WELL": "2850", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.82131, 37.28236 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109322", "DEPTH_WELL": "1575", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.81944, 37.21649 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109333", "DEPTH_WELL": "7476", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.90725, 37.24545 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109334", "DEPTH_WELL": "3500", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.85397, 37.28938 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109335", "DEPTH_WELL": "3450", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.85952, 37.28817 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109335", "DEPTH_WELL": "3450", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.85952, 37.28817 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109335", "DEPTH_WELL": "3450", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.85952, 37.28817 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109336", "DEPTH_WELL": "3200", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.84635, 37.28946 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109343", "DEPTH_WELL": "1840", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.69697, 37.31907 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109345", "DEPTH_WELL": "1900", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.71713, 37.27128 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109346", "DEPTH_WELL": "2600", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.80456, 37.26773 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109348", "DEPTH_WELL": "2080", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.71107, 37.29362 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109349", "DEPTH_WELL": "1720", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.68708, 37.3143 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109350", "DEPTH_WELL": "1800", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.68986, 37.31029 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109357", "DEPTH_WELL": "1510", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.82186, 37.20835 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109363", "DEPTH_WELL": "2385", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.82215, 37.20834 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109367", "DEPTH_WELL": "3020", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.92423, 37.23513 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109367", "DEPTH_WELL": "3020", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.92423, 37.23513 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109376", "DEPTH_WELL": "3430", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.90517, 37.26594 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109377", "DEPTH_WELL": "2550", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.78396, 37.20841 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109377", "DEPTH_WELL": "2550", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.78396, 37.20841 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109378", "DEPTH_WELL": "2740", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.786, 37.26419 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109378", "DEPTH_WELL": "2740", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.786, 37.26419 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109383", "DEPTH_WELL": "3350", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.91558, 37.25979 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109386", "DEPTH_WELL": "3360", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.92946, 37.25618 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109386", "DEPTH_WELL": "3360", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.92946, 37.25618 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109388", "DEPTH_WELL": "2400", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.9179, 37.23459 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109389", "DEPTH_WELL": "2665", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.76493, 37.25944 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109389", "DEPTH_WELL": "2665", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.76493, 37.25944 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109396", "DEPTH_WELL": "1780", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.67668, 37.28939 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109401", "DEPTH_WELL": "1970", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.75327, 37.31914 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109403", "DEPTH_WELL": "1965", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.70697, 37.30235 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109404", "DEPTH_WELL": "1990", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.71755, 37.29661 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109405", "DEPTH_WELL": "2095", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.72041, 37.29238 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109406", "DEPTH_WELL": "2700", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.79264, 37.23317 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109407", "DEPTH_WELL": "1720", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.67545, 37.24824 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109408", "DEPTH_WELL": "2110", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.76198, 37.28624 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109409", "DEPTH_WELL": "1670", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.72969, 37.32636 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109422", "DEPTH_WELL": "2350", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.72546, 37.28113 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109423", "DEPTH_WELL": "3300", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.85097, 37.27862 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109425", "DEPTH_WELL": "2410", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.73135, 37.28239 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109426", "DEPTH_WELL": "2340", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.71237, 37.28447 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109428", "DEPTH_WELL": "2200", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.71208, 37.27893 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109436", "DEPTH_WELL": "1880", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.69322, 37.27738 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109438", "DEPTH_WELL": "3800", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.84633, 37.30093 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109440", "DEPTH_WELL": "2040", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.69758, 37.27533 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109443", "DEPTH_WELL": "3325", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.8468, 37.2829 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109453", "DEPTH_WELL": "2420", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.79482, 37.31173 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109470", "DEPTH_WELL": "2380", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.78842, 37.22328 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109489", "DEPTH_WELL": "1800", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.71428, 37.32222 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109489", "DEPTH_WELL": "1800", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.71428, 37.32222 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109489", "DEPTH_WELL": "1800", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.71428, 37.32222 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109490", "DEPTH_WELL": "2130", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.73512, 37.22456 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109490", "DEPTH_WELL": "2130", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.73512, 37.22456 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109493", "DEPTH_WELL": "5675", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.87434, 37.22633 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109502", "DEPTH_WELL": "2940", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.9213, 37.21643 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109510", "DEPTH_WELL": "2335", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.75186, 37.23335 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109519", "DEPTH_WELL": "7550", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.91447, 37.26865 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109520", "DEPTH_WELL": "7200", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.88673, 37.26321 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109522", "DEPTH_WELL": "1580", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.69842, 37.21749 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109523", "DEPTH_WELL": "1370", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.70236, 37.22443 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109556", "DEPTH_WELL": "3070", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.84991, 37.29222 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109557", "DEPTH_WELL": "3170", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.85877, 37.29265 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109572", "DEPTH_WELL": "3300", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.93419, 37.24903 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109572", "DEPTH_WELL": "3300", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.93419, 37.24903 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109574", "DEPTH_WELL": "2210", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.71056, 37.28839 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109575", "DEPTH_WELL": "2000", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.70239, 37.26786 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109575", "DEPTH_WELL": "2000", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.70239, 37.26786 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109577", "DEPTH_WELL": "2610", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.7997, 37.31194 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109579", "DEPTH_WELL": "3070", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.90226, 37.24841 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109593", "DEPTH_WELL": "2530", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.9376, 37.22931 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109595", "DEPTH_WELL": "1900", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.71903, 37.23374 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109596", "DEPTH_WELL": "1850", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.69299, 37.29912 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109601", "DEPTH_WELL": "2650", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.81585, 37.29992 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109602", "DEPTH_WELL": "2170", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.7055, 37.29029 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109603", "DEPTH_WELL": "2250", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.70794, 37.28116 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109610", "DEPTH_WELL": "2780", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.83161, 37.28638 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109611", "DEPTH_WELL": "3230", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.92524, 37.27992 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109615", "DEPTH_WELL": "2130", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.78375, 37.28721 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109616", "DEPTH_WELL": "1880", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.74219, 37.24495 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109617", "DEPTH_WELL": "1900", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.74589, 37.2417 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109622", "DEPTH_WELL": "2540", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.81228, 37.21273 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109623", "DEPTH_WELL": "2400", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.90897, 37.23617 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109625", "DEPTH_WELL": "1770", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.68383, 37.30705 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109626", "DEPTH_WELL": "1960", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.75069, 37.24339 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109628", "DEPTH_WELL": "1820", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.68203, 37.29612 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109637", "DEPTH_WELL": "2340", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.78359, 37.32941 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109649", "DEPTH_WELL": "2490", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.75068, 37.24888 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109649", "DEPTH_WELL": "2490", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.75068, 37.24888 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109649", "DEPTH_WELL": "2490", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.75068, 37.24888 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "07109650", "DEPTH_WELL": "3270", "PERMITNO": "0", "IS_WATER": "F" }, "geometry": { "type": "Point", "coordinates": [ -104.82315, 37.26647 ] } }
+
+]
+}
